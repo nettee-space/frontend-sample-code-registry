@@ -5,4 +5,4 @@
 [submodule "sample"]
 	path = sample
 	url = https://github.com/choi1five/nettee-sample.git
-	branch = main
+	branch = feature/sample
