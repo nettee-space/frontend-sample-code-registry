@@ -23,3 +23,13 @@ git submodule init
 git submodule update
 
 ```
+원하는 서브모듈 최신화가 필요할 시 :
+
+```
+# 만약 boilerplate 최신화가 필요할 시
+
+cd boilerplate
+
+git pull origin main 
+
+```
