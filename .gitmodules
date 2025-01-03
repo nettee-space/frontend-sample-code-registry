@@ -1,6 +1,7 @@
 [submodule "boilerplate"]
 	path = boilerplate
-	url = git@github.com:choi1five/nettee-sample.git
+	url = https://github.com/choi1five/nettee-sample.git
+	branch = main
 [submodule "sample"]
 	path = sample
 	url = git@github.com:choi1five/nettee-sample.git
