@@ -4,5 +4,5 @@
 	branch = main
 [submodule "sample"]
 	path = sample
-	url = git@github.com:choi1five/nettee-sample.git
-	branch = feature/sample
+	url = https://github.com/choi1five/nettee-sample.git
+	branch = main
