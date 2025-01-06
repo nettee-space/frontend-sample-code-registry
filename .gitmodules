@@ -18,3 +18,6 @@
 [submodule "김정아2"]
 	path = 김정아2
 	url = git@github.com:rmkim7/submodule-test.git
+[submodule "오태훈"]
+	path = 오태훈
+	url = git@github.com:oth54477/nettee-front-sample.git
