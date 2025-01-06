@@ -15,3 +15,6 @@
 [submodule "최원오"]
 	path = 최원오
 	url = git@github.com:choi1five/test-submodule.git
+[submodule "김정아2"]
+	path = 김정아2
+	url = git@github.com:rmkim7/submodule-test.git
