@@ -7,7 +7,7 @@
 프로젝트 다운로드 :
 
 ```
-git clone --recursive https://github.com/nettee-space/frontend-sample-code-registry.git
+git clone --recursive --remote git@github.com:nettee-space/frontend-sample-code-registry.git
 
 ```
 
@@ -23,6 +23,7 @@ git submodule init
 git submodule update
 
 ```
+
 원하는 서브모듈 최신화가 필요할 시 :
 
 ```
@@ -30,6 +31,6 @@ git submodule update
 
 cd boilerplate
 
-git pull origin main 
+git pull origin main
 
 ```
