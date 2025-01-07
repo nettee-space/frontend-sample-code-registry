@@ -23,3 +23,6 @@
 	url = git@github.com:oth54477/nettee-front-sample.git
 	branch = main
 
+[submodule "김병제"]
+	path = 김병제
+	url = git@github.com:tqx7514/Nettee_space_byeongje.git
