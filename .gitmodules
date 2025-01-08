@@ -11,7 +11,7 @@
 	url = https://github.com/rmkim7/submodule-sample.git
 [submodule "나선오"]
 	path = 나선오
-	url = https://github.com/Seono-Na/frontend-sample.git
+	url = git@github.com:Seono-Na/frontend-sample.git
 [submodule "최원오"]
 	path = 최원오
 	url = git@github.com:choi1five/test-submodule.git
