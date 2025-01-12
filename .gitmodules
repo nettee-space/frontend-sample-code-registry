@@ -30,6 +30,6 @@
 [submodule "임거정"]
 	path = 임거정
 	url = https://github.com/dgd03146/nettee-front-sample.git
-[submodule "유상협"]
-	path = 유상협
-	url = https://github.com/hyeopsang/sanghyeop-sample.git
+[submodule "유상협2"]
+	path = 유상협2
+	url = https://github.com/hyeopsang/hyeop-sample.git
