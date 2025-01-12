@@ -6,6 +6,30 @@
 	path = sample
 	url = https://github.com/choi1five/nettee-sample.git
 	branch = feature/sample
+[submodule "김정아"]
+	path = 김정아
+	url = https://github.com/rmkim7/submodule-sample.git
+[submodule "나선오"]
+	path = 나선오
+	url = git@github.com:Seono-Na/frontend-sample.git
+[submodule "최원오"]
+	path = 최원오
+	url = git@github.com:choi1five/test-submodule.git
+[submodule "김정아2"]
+	path = 김정아2
+	url = git@github.com:rmkim7/submodule-test.git
+[submodule "오태훈"]
+	path = 오태훈
+	url = git@github.com:oth54477/nettee-front-sample.git
+	branch = main
+
+[submodule "김병제"]
+	path = 김병제
+	url = git@github.com:tqx7514/Nettee_space_byeongje.git
+
+[submodule "임거정"]
+	path = 임거정
+	url = https://github.com/dgd03146/nettee-front-sample.git
 [submodule "유상협"]
 	path = 유상협
 	url = https://github.com/hyeopsang/sanghyeop-sample.git
