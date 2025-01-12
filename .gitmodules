@@ -6,3 +6,6 @@
 	path = sample
 	url = https://github.com/choi1five/nettee-sample.git
 	branch = feature/sample
+[submodule "유상협"]
+	path = 유상협
+	url = https://github.com/hyeopsang/sanghyeop-sample.git
